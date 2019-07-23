@@ -16,10 +16,12 @@
   * 模型训练
   * 绘图
 
-
+在使用中有任何问题，欢迎反馈给我。
 -----------------------------------------------------------------
 # Pattern-Recognition-of-Acoustic-Emission-Signal
 
 * This repository is used to save code of AE signal processing,signal data analysis and siganl pattern recogintion in concrete beam AE characteristic test.
 * The algorithm contains clustering,smote, NN supported by sklearn, CNN supported by tensorflow.ect.
 * Wave analysis such as fft,wavelet,wavelet package are also contained.
+
+Any problem if you find when using the code,please contact me.
