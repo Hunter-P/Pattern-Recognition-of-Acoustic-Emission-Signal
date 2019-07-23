@@ -12,8 +12,8 @@ from sklearn.decomposition import PCA
 
 pd.set_option('display.width', 1000)
 
-file_label = r"G:\声发射试验\pjx-节段胶拼压弯AE试验\AE数据\试件2-0324\正式加载\standardscale_labels.json"
-file_data = r"G:\声发射试验\pjx-节段胶拼压弯AE试验\AE数据\试件2-0324\正式加载\滤波后-7200.csv"
+file_label = r"data\正式加载\standardscale_labels.json"
+file_data = r"data\正式加载\滤波后-7200.csv"
 #
 tunnel_index = 2
 # with open(file_label, 'r') as fo:
