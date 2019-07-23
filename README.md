@@ -17,6 +17,7 @@
   * 绘图
 
 在使用中有任何问题，欢迎反馈给我。
+
 -----------------------------------------------------------------
 # Pattern-Recognition-of-Acoustic-Emission-Signal
 
@@ -24,4 +25,4 @@
 * The algorithm contains clustering,smote, NN supported by sklearn, CNN supported by tensorflow.ect.
 * Wave analysis such as fft,wavelet,wavelet package are also contained.
 
-Any problem if you find when using the code,please contact me.
+Any problem if you find when using the code, please contact me.
