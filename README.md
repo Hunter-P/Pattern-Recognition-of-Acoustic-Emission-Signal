@@ -25,4 +25,4 @@
 * The algorithm contains clustering,smote, NN supported by sklearn, CNN supported by tensorflow.ect.
 * Wave analysis such as fft,wavelet,wavelet package are also contained.
 
-Any problem if you find when using the code, please contact me.
+Any problem happened when using the codes, please contact me.
